@@ -24,4 +24,3 @@ if __name__ == "__main__":
     sorted_arr = bubble_sort(example_arr)
     # 打印排序后的结果
     print("排序后的数组:", sorted_arr) 
-
